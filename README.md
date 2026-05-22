@@ -1,4 +1,5 @@
 # Vehicle Routing Optimization
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mayank-Singh5/vehicle-routing-optimization/blob/main/Vehicle_Routing_Prob.ipynb)
 
 Solving the **Vehicle Routing Problem (VRP)** using a custom Genetic Algorithm built with the Python `DEAP` library.
 
