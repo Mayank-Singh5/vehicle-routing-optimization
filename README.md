@@ -3,7 +3,7 @@
 Solving the **Vehicle Routing Problem (VRP)** using a custom Genetic Algorithm built with the Python `DEAP` library.
 
 ## Problem
-Route a fleet of 4 vehicles to visit 40 locations and return to a central depot, minimizing total distance traveled while balancing workload across vehicles.
+Route a fleet of vehicles to visit a set of locations and return to a central depot, minimizing total distance traveled while balancing workload across vehicles.
 
 ## Features
 - Custom evolutionary loop with **Elitism** and **Hall of Fame**
