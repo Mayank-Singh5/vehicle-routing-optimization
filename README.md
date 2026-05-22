@@ -26,5 +26,8 @@ Open the notebook in Google Colab:
 2. `run_ga()` — runs the main GA and plots route snapshots
 3. `run_experiments()` — runs parameter sweeps and diversity analysis
 
+## Blog Post
+Read the full writeup on Dev.to: [Solving a Logistics Problem Using Genetic Algorithms](https://dev.to/mayank_singh5/solving-a-logistics-problem-using-genetic-algorithms-2b33)
+
 ## Tech Stack
 - Python, DEAP, NumPy, Matplotlib
